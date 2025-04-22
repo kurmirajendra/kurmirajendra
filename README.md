@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurmirajendra&label=Profile%20views&color=0e75b6&style=flat" alt="veersinghlodhi" /> </p>
 
-- 🌱 I’m currently learning **C and C++ **
+- 🌱 I’m currently learning **C and C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kurmirajendra](https://github.com/kurmirajendra)
 
