@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajendra Kurmi</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurmirajendra&label=Profile%20views&color=0e75b6&style=flat" alt="veersinghlodhi" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurmirajendra&label=Profile%20views&color=0e75b6&style=flat" alt="KurmiRajendra" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"
     alt="Coding" width="400" align="right">
 
 - 🌱 I’m currently learning **C and C++**
