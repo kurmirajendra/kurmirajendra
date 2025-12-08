@@ -29,7 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS" />
 </div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurmirajendra&show_icons=true&locale=en&layout=compact" alt="RajendraKurmi" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurmirajendra&show_icons=true&locale=en" alt="RajendraKurmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurmirajendra&" alt="RajendraKurmi" /></p>
