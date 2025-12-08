@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rajendra Kurmi</h1> 
-<h3 align="center">I'm a Full Stack Developer</h3> 
+<h1 align="center">Hi 👋, I'm Rajendra Kurmi</h1>
+<h3 align="center">I'm a Full Stack Developer</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurmirajendra&label=Profile%20views&color=0e75b6&style=flat" alt="KurmiRajendra" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"
     alt="Coding" width="400" align="right">
 
-- 🌱 I’m currently learning C C++ and Java 
-
+- 🌱 I’m currently learning C C++ and Java
 - 👨‍💻 All of my projects are available at [https://github.com/kurmirajendra](https://github.com/kurmirajendra)
-
 - 💬 Ask me about *Ask me about *C*, *C++* and *Java**
 - 📫 How to reach me **rajendrakurmi78@gmail.com**
-
 - ⚡ Fun fact **I'm funny 😎**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,10 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS" />
 </div>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurmirajendra&show_icons=true&locale=en&layout=compact" alt="RajendraKurmi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurmirajendra&show_icons=true&locale=en" alt="RajendraKurmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurmirajendra&" alt="RajendraKurmi" /></p>
