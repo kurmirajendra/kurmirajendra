@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning C C++ and Java
 - 👨‍💻 All of my projects are available at [https://github.com/kurmirajendra](https://github.com/kurmirajendra)
 - 💬 Ask me about *Ask me about *C*, *C++* and *Java**
-- 📫 How to reach me **rajendrakurmi78@gmail.com**
+- 📫 How to reach me  **rajendrakurmi78@gmail.com**
 - ⚡ Fun fact **I'm funny 😎**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
